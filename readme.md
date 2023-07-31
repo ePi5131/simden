@@ -5,7 +5,7 @@ C++20のための低レベルSIMDライブラリ
 - 型安全
 
 ## 使い方
-~~そんなものはない~~aulutのために作ったcubehppのために作ったので、その辺を見てください
+~~そんなものはない~~[aulut](https://github.com/ePi5131/aulut)のために作った[cubehpp](https://github.com/ePi5131/cubehpp)のために作ったので、その辺を見てください
 
 ## ライセンス
 1条項BSD(いつもの)<br>
